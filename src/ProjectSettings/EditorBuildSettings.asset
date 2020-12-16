@@ -27,9 +27,21 @@ EditorBuildSettings:
     path: Assets/Scenes/LVL6.unity
     guid: ebbb2bf61c59f804bada518af6c5e498
   - enabled: 1
-    path: Assets/Scenes/BuyLevel.unity
+    path: Assets/Scenes/BuyLevelBackGround.unity
+    guid: a3e7f1af545c9374382e77bb6777dfd6
+  - enabled: 1
+    path: Assets/Scenes/WatchAds.unity
     guid: 97fc48a0c3b27c5468cdc86155835ba9
   - enabled: 1
     path: Assets/Scenes/Ad.unity
     guid: c4652e2ac7951c344b49d9f37e823998
+  - enabled: 1
+    path: Assets/Scenes/BuyLevel.unity
+    guid: 9b863d1e156d8b74591aa33d95b1a083
+  - enabled: 1
+    path: Assets/Scenes/BuyHelp.unity
+    guid: 9256cc431b6cde14ab4d4e0592b25972
+  - enabled: 1
+    path: Assets/Scenes/Store.unity
+    guid: 08d6a42ccdf75c1449dbc4b30da99575
   m_configObjects: {}
